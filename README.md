@@ -1,0 +1,1 @@
+Movie Rating Prediction– sentiment analysis model which takes review of the viewer as input and output the sentiment associated with it i.e. positive or negative.
